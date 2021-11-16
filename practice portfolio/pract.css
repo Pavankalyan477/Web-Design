@@ -1,0 +1,101 @@
+.bdy{
+    width: 85%;
+    background-color:bisque;
+    margin: auto;
+}
+h1{
+    width: 100%;
+    font-size: 42pt;
+    margin: auto;
+    
+}
+.navbar{
+    width: 100%;
+    height: 80px;
+    background-color: #333333;
+}
+.store{
+    width: 40%;
+    float: left;
+}
+.store1{
+    color: white;
+    font-size: 48pt;
+    margin-left: 5%;
+}
+.list{
+    width: 50%;
+    float: right;
+}
+ul{
+    display: grid;
+   grid-template-columns: 18% 18% 18% 18% 18%;
+   grid-gap: 2%;
+    list-style-type: none;
+    color:white;
+    margin: auto;
+    margin-top: 5%;
+    margin-right: 5%;
+    
+}
+li{
+    margin: auto;
+    font-size: 18px;
+}
+.mask{
+    background-color: lightgray;
+    width: 100%;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-gap: 3%;
+    margin: auto;
+}
+img{
+    width: 70%;
+    height: 70%;
+    background-color: lightgrey;
+    margin-left: 5%;
+    color:#333333
+}
+.prop{
+    margin: auto;
+}
+.deals{
+    margin: auto;
+
+
+}
+.dir{
+   
+    display: grid;
+    grid-template-columns: 30% 30% 30% 30% 30% 30%;
+    grid-gap: 20%;
+    width: 100%;
+    background-color: antiquewhite;
+}
+   
+.img1{
+    width: 100%;
+}
+.sty{
+    margin: auto;
+    background-color: aqua;
+    width: 100%;
+}
+
+
+#footer{
+    height: 500px;
+    width: 100%;
+    background-color:#333333;
+    margin-top: 500px;
+    display: grid;
+    grid-template-columns: 15% 15% 15% 15%;
+    grid-gap: 10%;
+    color: white;
+
+}
+.pt{
+    margin: auto;
+}
