@@ -15,7 +15,7 @@ const Contact = () => {
       </div>
       <div class="contact-items">
         <div class="contact-item">
-          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/phone.png" /></div>
+          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/phone.png" alt="phone" /></div>
           <div class="contact-info">
             <h1>Phone</h1>
             <h2>+91 9989175395</h2>
@@ -23,7 +23,7 @@ const Contact = () => {
           </div>
         </div>
         <div class="contact-item">
-          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/new-post.png" /></div>
+          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/new-post.png"  /></div>
           <div class="contact-info">
             <h1>Email</h1>
             <h2>sarakantipavankalyan070@gmail.com</h2>
