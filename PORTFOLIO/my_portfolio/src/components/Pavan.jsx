@@ -13,7 +13,7 @@ import { Route,Switch } from "react-router-dom"
 const Pavan = () => {
   return <div>
      <Navbar/>
-    <Switch>
+    {/* <Switch>
    
       <Route exact path="/Home">
         <Home/>
@@ -30,18 +30,17 @@ const Pavan = () => {
       <Route exact path="/Contact">
         <Contact/>
       </Route>
-    </Switch>
-    {/* <Home/> */}
+    </Switch> */}
+    <Home/>
    
-    {/* <About/>
+    <About/>
 
     <Tools/>
 
     <Projects/>
 
-    <Contact/> */}
+    <Contact/>
 
-    {/* <Footer/> */}
 
      
 
