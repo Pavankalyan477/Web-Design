@@ -23,7 +23,7 @@ const Contact = () => {
           </div>
         </div>
         <div class="contact-item">
-          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/new-post.png"  /></div>
+          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/new-post.png" alt="mail"  /></div>
           <div class="contact-info">
             <h1>Email</h1>
             <h2>sarakantipavankalyan070@gmail.com</h2>
@@ -31,7 +31,7 @@ const Contact = () => {
           </div>
         </div>
         <div class="contact-item">
-          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/map-marker.png" /></div>
+          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/map-marker.png" alt="address" /></div>
           <div class="contact-info">
             <h1>Address</h1>
             <h2>Chittoor, Andhra Pradesh</h2>
@@ -47,19 +47,19 @@ const Contact = () => {
       <h2>You can also get in touch with me... </h2>
       <div class="social-icon">
         <div class="social-item">
-          <a href="https://github.com/Pavankalyan477"><img src={git}/></a>
+          <a href="https://github.com/Pavankalyan477"><img src={git} alt="git"/></a>
         </div>
         <div class="social-item">
-          <a href="https://mobile.twitter.com/PavanKalyan477"><img src={twitter} /></a>
+          <a href="https://mobile.twitter.com/PavanKalyan477"><img src={twitter} alt="twitter"/></a>
         </div>
         <div class="social-item">
-          <a href="https://www.linkedin.com/in/pavan-kalyan-3934001b4/"><img src={Linked} /></a>
+          <a href="https://www.linkedin.com/in/pavan-kalyan-3934001b4/"><img src={Linked} alt="linkedin" /></a>
         </div>
         <div class="social-item">
-          <a href="https://www.youtube.com/channel/UCfuMHWHCXMU5NURurR0sfww"><img src={youtube} /></a>
+          <a href="https://www.youtube.com/channel/UCfuMHWHCXMU5NURurR0sfww"><img src={youtube} alt="youtube" /></a>
         </div>
         <div class="social-item">
-          <a href="https://medium.com/@sarakantipavankalyan070?source=post_page-----c1c7c428c26f-----------------------------------"><img src={medium} /></a>
+          <a href="https://medium.com/@sarakantipavankalyan070?source=post_page-----c1c7c428c26f-----------------------------------"><img src={medium} alt="medium" /></a>
         </div>
       </div>
       <p>Copyright © 2021 Pavan Kalyan. All rights reserved</p>

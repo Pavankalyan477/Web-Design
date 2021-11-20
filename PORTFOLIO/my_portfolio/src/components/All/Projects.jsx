@@ -22,9 +22,9 @@ const Projects = () => {
             <p>HTML | CSS | JavaScript </p>
             <br /><br />
             <div className="links">
-              <div className="link1"><a href="https://github.com/Pavankalyan477/Project-Buddies"><img src={source} alt="" /></a></div>
-              <div className="link2"><a href="#"><img src={live} alt="" /></a></div>
-              <div className="link3"><a href="https://medium.com/@sarakantipavankalyan070/cloning-udacity-website-c2c93d684dbf"><img src={medium} alt="" /></a></div>
+              <div className="link1"><a href="https://github.com/Pavankalyan477/Project-Buddies"><img src={source} alt="source" /></a></div>
+              <div className="link2"><a href="https://udacity-clone-git-master-udacity-clone.vercel.app/"><img src={live} alt="live" /></a></div>
+              <div className="link3"><a href="https://medium.com/@sarakantipavankalyan070/cloning-udacity-website-c2c93d684dbf"><img src={medium} alt="blog" /></a></div>
             </div>
           </div>
           <div class="project-img">
@@ -40,9 +40,9 @@ const Projects = () => {
             <p>HTML | CSS | JavaScript | Express Js | Mongo DB </p>
             <br /><br />
             <div className="links">
-              <div className="link1"><a href="https://github.com/Pavankalyan477/Udacity_Project"><img src={source} alt="" /></a></div>
-              <div className="link2"><a href="#"><img src={live} alt="" /></a></div>
-              <div className="link3"><a href="https://medium.com/@sarakantipavankalyan070/unit-3-construct-week-project-udacity-com-cloned-1b0ab43d7af5"><img src={medium} alt="" /></a></div>
+              <div className="link1"><a href="https://github.com/Pavankalyan477/Udacity_Project"><img src={source} alt="source" /></a></div>
+              <div className="link2"><a href="https://udacity-clone-git-master-udacity-clone.vercel.app/"><img src={live} alt="live" /></a></div>
+              <div className="link3"><a href="https://medium.com/@sarakantipavankalyan070/unit-3-construct-week-project-udacity-com-cloned-1b0ab43d7af5"><img src={medium} alt="blog" /></a></div>
             </div>
           </div>
           <div class="project-img">
@@ -59,7 +59,7 @@ const Projects = () => {
             <br /><br />
             <div className="links">
               <div className="link1"><a href="https://github.com/RaniKamna/Redbus_clone"><img src={source} alt="" /></a></div>
-              <div className="link2"><a href="#"><img src={live} alt="" /></a></div>
+              <div className="link2"> <a href="https://udacity-clone-git-master-udacity-clone.vercel.app/"> <img src={live} alt="live" /></a></div>
               <div className="link3"><a href="https://medium.com/@sarakantipavankalyan070/building-the-clone-of-redbus-website-c1c7c428c26f"><img src={medium} alt="" /></a></div>
             </div>
           </div>
