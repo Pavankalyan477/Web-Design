@@ -471,7 +471,7 @@ p {
 /* About Section */
 #about{
 	margin: 0;
-    height: 120vh;
+    height: 100vh;
     font-weight: 100;
     background: radial-gradient(#ac1a7b,#d3c5c8);
 
@@ -827,7 +827,7 @@ width: 90%;
 
 
 /* Media Query For Tablet */
-@media only screen and (min-width: 414px) {
+@media only screen and (max-width: 300px) {
 	.cta {
 		font-size: 2.5rem;
 		padding: 20px 60px;
@@ -871,6 +871,9 @@ width: 90%;
 	/* End Project */
 
 	/* About */
+	#about{
+		height: 100vh;
+	}
 	#about .about {
 		flex-direction: row;
 	}
