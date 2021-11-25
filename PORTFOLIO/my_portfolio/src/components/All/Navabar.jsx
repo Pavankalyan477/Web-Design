@@ -16,11 +16,7 @@ const Navbar=() =>{
               <div className="bar"></div>
             </div>
             <ul>
-              {/* <li><Link to="/Home">Home</Link></li>
-              <li><Link to="/About">About</Link></li>
-              <li><Link to="/Tools">Tools & Skills</Link></li>
-              <li><Link to="/Projects">Projects</Link></li>
-              <li><Link to="/Contact">Contact</Link></li> */}
+              
               <li><a href="#hero" data-after="Home">Home</a></li>
               <li><a href="#about" data-after="About">About</a></li>
               <li><a href="#services" data-after="Services">Tools & Skills</a></li>
