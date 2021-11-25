@@ -736,18 +736,18 @@ width: 90%;
 		text-align: left;
 	}
 	.role{
-		font-size: large;
+		font-size: medium;
 		color:black;
-		font-weight: 900;
-		text-decoration:dashed;
+		text-decoration:underline;
 		text-transform: uppercase;
+		font-weight: bold;
 	
 		
 
 	}
 	.myself{
 		font-size: medium;
-		font-weight: 500;
+		font-weight: 400;
 		
 	}
 	/* End About */

@@ -16,8 +16,7 @@ const About = () => {
           <p className="myself">Dedicated and Efficient Full-stack Web Developer with a passion to
             build and optimize user-focused websites. Self-motivated and task driven professional with a knack to learn new technologies. I believe in the power of programming to transform and improve the lives of people around the world.
 </p>
-            <br/>
-            <br/>
+           
           <a href={resume} className="cta">Download Resume</a>
         </div>
       </div>
