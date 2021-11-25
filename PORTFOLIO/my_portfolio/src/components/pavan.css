@@ -359,7 +359,7 @@ p {
 	margin-bottom: 20px;
 }
 #services .service-item h2 {
-	font-size: 1.5rem;
+	font-size: 1.3rem;
 	color: white;
 	margin-bottom: 10px;
 	text-transform: uppercase;
@@ -369,6 +369,7 @@ p {
 	color: white;
 	text-align: left;
 }
+
 /* End Services Section */
 
 /* Projects section */
@@ -546,6 +547,21 @@ p {
 .about-img{
 height: 90%;
 width: 90%;
+}
+.role{
+	font-size: medium;
+	color:black;
+	text-decoration:underline;
+	text-transform: uppercase;
+	font-weight: bold;
+
+	
+
+}
+.myself{
+	font-size: medium;
+	font-weight: 400;
+	
 }
 /* End About Section */
 
@@ -735,21 +751,7 @@ width: 90%;
 	#about .col-right h1 {
 		text-align: left;
 	}
-	.role{
-		font-size: medium;
-		color:black;
-		text-decoration:underline;
-		text-transform: uppercase;
-		font-weight: bold;
 	
-		
-
-	}
-	.myself{
-		font-size: medium;
-		font-weight: 400;
-		
-	}
 	/* End About */
 
 	/* contact  */
