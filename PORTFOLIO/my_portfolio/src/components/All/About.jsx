@@ -1,5 +1,5 @@
 import "../pavan.css"
-import resume from "./images/Fw11_191_Pavan_Kalyan.pdf"
+import resume from "./images/FW11_191_Pavan_Kalyan.pdf"
 import quote from "./images/quote.jpg"
 const About = () => {
     return <> 
@@ -12,8 +12,8 @@ const About = () => {
        
         <div className="col-right">
           <h1 className="section-title">About <span>me</span></h1>
-          <h2>Full Stack Web Developer</h2>
-          <p>Dedicated and Efficient Full-stack Web Developer with a passion to
+          <h2 className="role">Full Stack Web Developer</h2>
+          <p className="myself">Dedicated and Efficient Full-stack Web Developer with a passion to
             build and optimize user-focused websites. Self-motivated and task driven professional with a knack to learn new technologies. I believe in the power of programming to transform and improve the lives of people around the world.
 </p>
             <br/>

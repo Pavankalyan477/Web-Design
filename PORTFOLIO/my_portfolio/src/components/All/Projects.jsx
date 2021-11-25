@@ -18,7 +18,7 @@ const Projects = () => {
             <h1>Project 1</h1>
             <h2>Udacity.com Clone</h2>
             <p>Udacity which is an online education provider that offers online courses, popularly known as MOOCs or Massive Open Online Courses. </p>
-              <h3>Tech Stack: </h3>
+              <h2>Tech Stack: </h2>
             <p>HTML | CSS | JavaScript </p>
             <br /><br />
             <div className="links">
@@ -36,7 +36,7 @@ const Projects = () => {
             <h1>Project 2</h1>
             <h2>Udacity.com Clone</h2>
             <p>Udacity which is an online education provider that offers online courses, popularly known as MOOCs or Massive Open Online Courses. </p>
-              <h3>Tech Stack: </h3>
+              <h2>Tech Stack: </h2>
             <p>HTML | CSS | JavaScript | Express Js | Mongo DB </p>
             <br /><br />
             <div className="links">
@@ -54,7 +54,7 @@ const Projects = () => {
             <h1>Project 3</h1>
             <h2>Redbus.com Clone</h2>
             <p>redBus is an Indian online bus ticketing platform, providing ticket booking facilities through its website, iOS, and Android mobile apps.</p>
-            <h3>Tech Stack: </h3>
+            <h2>Tech Stack: </h2>
             <p>React Js | CSS | Styled-components | Express Js | Mongo DB </p>
             <br /><br />
             <div className="links">

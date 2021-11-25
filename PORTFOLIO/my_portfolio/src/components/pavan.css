@@ -408,6 +408,7 @@ p {
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 	color: white;
 }
+
 #projects .project-info h1 {
 	font-size: 4rem;
 	font-weight: 500;
@@ -513,6 +514,7 @@ p {
 	margin-bottom: 50px;
 	padding: 10px 20px;
 	font-size: 2rem;
+	
 }
 #about .col-left .about-img {
 	height: 100%;
@@ -732,6 +734,21 @@ width: 90%;
 	}
 	#about .col-right h1 {
 		text-align: left;
+	}
+	.role{
+		font-size: large;
+		color:black;
+		font-weight: 900;
+		text-decoration:dashed;
+		text-transform: uppercase;
+	
+		
+
+	}
+	.myself{
+		font-size: medium;
+		font-weight: 500;
+		
 	}
 	/* End About */
 
