@@ -1,4 +1,4 @@
-import "../pavan.css"
+import "../style.css"
 import HTML from "./images/html.png"
 import CSS from "./images/css.jpg"
 import JS from "./images/javascript.jpg"

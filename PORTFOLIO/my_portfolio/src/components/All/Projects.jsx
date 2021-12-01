@@ -1,4 +1,4 @@
-import "../pavan.css"
+import "../style.css"
 import udacity from "../All/images/udacity.png"
 import redbus from "../All/images/redbus.png"
 import source from "../All/images/source.jpg"
@@ -15,11 +15,10 @@ const Projects = () => {
       <div class="all-projects">
         <div class="project-item">
           <div class="project-info">
-            <h1>Project 1</h1>
-            <h2>Udacity.com Clone</h2>
-            <p>Udacity which is an online education provider that offers online courses, popularly known as MOOCs or Massive Open Online Courses. </p>
-              <h2>Tech Stack: </h2>
-            <p>HTML | CSS | JavaScript </p>
+            <h1 className="tech">Udacity.com Clone</h1>
+            <p className="Para">Udacity which is an online education provider that offers online courses, popularly known as MOOCs or Massive Open Online Courses. </p>
+              <h2 className="tech">Tech Stack: </h2>
+            <p className="Para">HTML | CSS | JavaScript </p>
             <br /><br />
             <div className="links">
               <div className="link1"><a href="https://github.com/Pavankalyan477/Project-Buddies"><img src={source} alt="source" /></a></div>
@@ -33,11 +32,10 @@ const Projects = () => {
         </div>
         <div class="project-item">
           <div class="project-info">
-            <h1>Project 2</h1>
-            <h2>Udacity.com Clone</h2>
-            <p>Udacity which is an online education provider that offers online courses, popularly known as MOOCs or Massive Open Online Courses. </p>
-              <h2>Tech Stack: </h2>
-            <p>HTML | CSS | JavaScript | Express Js | Mongo DB </p>
+            <h1 className="tech">Udacity.com Clone</h1>
+            <p className="Para">Udacity which is an online education provider that offers online courses, popularly known as MOOCs or Massive Open Online Courses. </p>
+              <h2 className="tech">Tech Stack: </h2>
+            <p className="Para">HTML | CSS | JavaScript | Express Js | Mongo DB </p>
             <br /><br />
             <div className="links">
               <div className="link1"><a href="https://github.com/Pavankalyan477/Udacity_Project"><img src={source} alt="source" /></a></div>
@@ -51,11 +49,10 @@ const Projects = () => {
         </div>
         <div class="project-item">
           <div class="project-info">
-            <h1>Project 3</h1>
-            <h2>Redbus.com Clone</h2>
-            <p>redBus is an Indian online bus ticketing platform, providing ticket booking facilities through its website, iOS, and Android mobile apps.</p>
-            <h2>Tech Stack: </h2>
-            <p>React Js | CSS | Styled-components | Express Js | Mongo DB </p>
+            <h1 className="tech">Redbus.com Clone</h1>
+            <p className="Para">redBus is an Indian online bus ticketing platform, providing ticket booking facilities through its website, iOS, and Android mobile apps.</p>
+            <h2 className="tech">Tech Stack: </h2>
+            <p className="Para">React Js | CSS | Styled-components | Express Js | Mongo DB </p>
             <br /><br />
             <div className="links">
               <div className="link1"><a href="https://github.com/RaniKamna/Redbus_clone"><img src={source} alt="" /></a></div>

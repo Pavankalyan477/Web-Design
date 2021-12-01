@@ -1,4 +1,4 @@
-import "../pavan.css"
+import "../style.css"
 import resume from "./images/FW11_191_Pavan_Kalyan.pdf"
 import quote from "./images/quote.jpg"
 const About = () => {

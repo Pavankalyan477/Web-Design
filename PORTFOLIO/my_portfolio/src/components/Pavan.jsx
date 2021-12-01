@@ -1,4 +1,4 @@
-import "./pavan.css"
+import "./style.css"
 import { Navbar } from "./All/Navabar"
 import { Home } from "./All/Home"
 import { About } from "./All/About"

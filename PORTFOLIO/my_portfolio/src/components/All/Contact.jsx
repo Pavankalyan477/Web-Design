@@ -1,4 +1,4 @@
-import "../pavan.css"
+import "../style.css"
 import Linked from "../All/images/linked.png"
 import git from "../All/images/github.png"
 import twitter from "../All/images/twitter.png"

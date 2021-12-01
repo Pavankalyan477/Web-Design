@@ -1,4 +1,4 @@
-import "../pavan.css"
+import "../style.css"
 
 const Navbar=() =>{
     return <>
